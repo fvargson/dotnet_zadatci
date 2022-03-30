@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = mvc_locations
 build_property.RootNamespace = mvc_locations
-build_property.ProjectDir = /home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/
+build_property.ProjectDir = /home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations
+build_property.MSBuildProjectDirectory = /home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/Home/Index.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/Home/Privacy.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/Shared/Error.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/_ViewImports.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/_ViewStart.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/josip/Asp_projects/Modul_9/2022_03_zadatak_ef_first/mvc_locations/Views/Shared/_Layout.cshtml]
+[/home/josip/Asp_projects/Modul_9/dotnet_zadatci/2022_03_zadatak_ef_first/mvc_locations/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7bjr6jmfhu
